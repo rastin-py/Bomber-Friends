@@ -1,4 +1,3 @@
-![Screenshot 2024-06-13 122347](https://github.com/rastin-py/Bomber-Friends/assets/92922383/9360a7f5-854d-4f3a-8bb2-835eb256f641)
 # Bomber-Friends
 
 A Game implemented in Java as an assignment for Advanced Programming course at the University of Guilan, Department of Computer Engineering, presented in Spring 2022.
